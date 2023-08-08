@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GDSE</string>
+    <string name="Text_1">Google Developer Student Clubs are university based community groups for students interested in Google developer technologies. Students from all undergraduate or graduate programs with an interest in growing as a developer are welcome. By joining a GDSC, students grow their knowledge in a peer-to-peer learning environment and build solutions for local businesses and their community.</string>
+    <string name="Text_2">There are a number of benefits to joining a Google Developer Student Club. According to the Google Developers website, students can:
+
+Grow their knowledge in a peer-to-peer learning environment.
+Build solutions for local businesses and their community.
+Access community management training and technical knowledge to help them be better equipped to solve real-world problems.
+Gain experience by working on projects that solve real-world problems.
+Connect with other students interested in developer technologies at their college or university.
+Learn about a range of technical topics and gain new skills through hands-on workshops, events, talks, and project-building activities online and in-person.
+Advance their skills, career, and network.</string>
+</resources>
